@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,KAAK,CAAC;EACF,gBAAgB,ECHP,OAAO;EDIhB,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,MAAM;CAAG",
+    "sources": [
+        "Home.sass",
+        "../../components/colors.sass"
+    ],
+    "names": [],
+    "file": "Home.css"
+}

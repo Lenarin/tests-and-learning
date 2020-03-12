@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Lenarin\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Lenarin\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_RESTing.1684591795.00" t="ExcludeRecursive" />
+    <e p="D:\Projects\NETProjects\RESTing" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="RESTing" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Context" t="Include">
+          <e p="NotesContext.cs" t="Include" />
+          <e p="URLShortenersContext.cs" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="NotesController.cs" t="Include" />
+          <e p="TimeStampController.cs" t="Include" />
+          <e p="UrlShortenersController.cs" t="Include" />
+          <e p="WeatherForecastController.cs" t="Include" />
+          <e p="WhoAmIController.cs" t="Include" />
+        </e>
+        <e p="MiddleWares" t="Include">
+          <e p="Logging.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20200312151613_UrlShortenerDB.cs" t="Include" />
+          <e p="20200312151613_UrlShortenerDB.Designer.cs" t="Include" />
+          <e p="UrlShortenersContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Note.cs" t="Include" />
+          <e p="TimeStamp.cs" t="Include" />
+          <e p="URLShortener.cs" t="Include" />
+          <e p="WeatherForecast.cs" t="Include" />
+          <e p="WhoAmI.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="RESTing.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="RESTing.csproj" t="IncludeRecursive" />
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="RESTing.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

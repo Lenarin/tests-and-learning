@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f688a7a-e2bd-47ee-a3b6-9096b4b39d54" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/RESTing/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RESTing/Models/UrlShortener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RESTing/Context/UrlShortenersContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RESTing/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RESTing/Context/NotesContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RESTing/Controllers/UrlShortenersController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RESTing/Controllers/NotesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RESTing/Models/Note.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RESTing/Migrations/20200312151613_UrlShortenerDB.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RESTing/Migrations/UrlShortenersContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RESTing/Models/WeatherForecast.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RESTing/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RESTing/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RESTing/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RESTing/MiddleWares/Logging.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/rider64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/RESTing/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/RESTing/Context/PostgressContext.cs" />
+        <option value="$PROJECT_DIR$/RESTing/Models/Note.cs" />
+        <option value="$PROJECT_DIR$/RESTing/Context/PostgresContext.cs" />
+        <option value="$PROJECT_DIR$/RESTing/Models/URLShortener.cs" />
+        <option value="$PROJECT_DIR$/RESTing/Context/URLShortenersContext.cs" />
+        <option value="$PROJECT_DIR$/RESTing/Controllers/NotesController.cs" />
+        <option value="$PROJECT_DIR$/RESTing/Context/NotesContext.cs" />
+        <option value="$PROJECT_DIR$/RESTing/Context/UrlShortenersContext.cs" />
+        <option value="$PROJECT_DIR$/RESTing/Controllers/UrlShortenersController.cs" />
+        <option value="$PROJECT_DIR$/RESTing/Program.cs" />
+        <option value="$PROJECT_DIR$/RESTing/MiddleWares/Logging.cs" />
+        <option value="$PROJECT_DIR$/RESTing/Startup.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z1e5zYypnOUHpctn70FP5oXmEi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.RESTing">
+    <configuration name="RESTing" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/RESTing/RESTing.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="RESTing" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RESTing: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/RESTing/RESTing.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f688a7a-e2bd-47ee-a3b6-9096b4b39d54" name="Default Changelist" comment="" />
+      <created>1584010849084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584010849084</updated>
+      <workItem from="1584010853982" duration="77000" />
+      <workItem from="1584011458058" duration="48000" />
+      <workItem from="1584011539534" duration="1258000" />
+      <workItem from="1584012803001" duration="4217000" />
+      <workItem from="1584019430335" duration="126000" />
+      <workItem from="1584022963328" duration="5583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1877" height="249" key="GridCell.Tab.0.bottom" timestamp="1584029207235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="249" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584029207235" />
+    <state width="1877" height="249" key="GridCell.Tab.0.center" timestamp="1584029207235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="249" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584029207235" />
+    <state width="1877" height="249" key="GridCell.Tab.0.left" timestamp="1584029207235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="249" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584029207235" />
+    <state width="1877" height="249" key="GridCell.Tab.0.right" timestamp="1584029207235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="249" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584029207235" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1584023276740">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584023276740" />
+  </component>
+</project>
